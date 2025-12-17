@@ -13,7 +13,7 @@ export default function Home() {
           </p>
           <div className="mt-8">
             <span className="inline-block bg-green-100 text-green-800 px-4 py-2 rounded-full text-sm font-medium">
-              ✅ Online e Funcionando
+              ✅ Online e Funcionando OK!
             </span>
           </div>
         </header>
